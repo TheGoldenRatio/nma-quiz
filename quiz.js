@@ -159,7 +159,7 @@ var $indicators = $('<ol>')
 
       // default opts for both outcomes
       var opts = {
-        allowOutsideClick : false,
+        allowOutsideClick : true,
         allowEscapeKey : false,
         confirmButtonText: "Next Question",
         html : true,
@@ -181,7 +181,7 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+          title: "Hmm...",
           text: (
             "Nope, not quite right!<br/><br/>" +
             "The correct answer was \"" +
