@@ -192,9 +192,13 @@ html, body {
 }
 }
 
+
+
 .navbar-default {
   height: 100px;
   background-color: #283A45;
+  border-color:#283A45;
+  border-radius: 0;
 }
 
 
