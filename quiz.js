@@ -257,7 +257,7 @@ var $indicators = $('<ol>')
     .appendTo($slides);
 
   var $results_title = $('<h1>')
-    .attr('class', 'quiz-title')
+    .attr('class', 'quiz-end')
     .appendTo($results_slide);
 
   var $results_ratio = $('<div>')
@@ -270,7 +270,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Contact <a href= "http://www.newmarketsadvisors.com"> New Markets Advisors </a> to learn more about how you can use Jobs to Be Done to grow your organization. Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text"> Contact <a href= "http://www.newmarketsadvisors.com"> New Markets Advisors </a> to learn more about Jobs to Be Done for your organization. <br><br> Share your results!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -308,22 +308,22 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score! Visit New Markets Advisors for more information on Jobs to be done.";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.9):
-      text = "Awesome job, you got most of them right.";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.60):
-      text = "Pretty good, we'll say that's a pass.";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.5):
-      text = "Well, at least you got half of them right&hellip;";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio < 0.5 && ratio !== 0):
-      text = "Looks like this was a tough one, better luck next time.";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio === 0):
-      text = "Yikes, none correct. Well, maybe it was rigged?";
+      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
       break;
   }
   return text;

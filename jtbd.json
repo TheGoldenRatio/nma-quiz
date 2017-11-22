@@ -5,11 +5,11 @@
         "Add new flavors!",
         "Lower the price!",
         "Add sprinkles!",
-        "Take a step back..."
+        "Take a step back first..."
       ],
       "correct": {
         "index": 3,
-        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to Be Done framework asks us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, is it really about flavors or price? The next few questions will guide us through the Jobs framework."
+        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework asks us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, is it really about flavors or price? The next few questions will guide us through the Jobs framework."
       },
       "image": "img/parlor.jpg",
       "number": 1,
@@ -34,42 +34,43 @@
       "answers": [
         "Doing a bunch of dishes Saturday night after a 12-person party",
         "dropping ice cream onto the pavement while strolling around town",
-        "eating too much from the tub while watching a horror  movie",
+        "eating too much from the tub while watching a horror movie",
         "All of the above"
       ],
       "correct": {
         "index": 3,
-        "text": "As you might have guessed, all these are specific contexts in which"
+        "text": "As you might have guessed, all these are specific contexts in which people run into some Pain Points. Whether it's doing the dishes, dripping and dropping ice cream, or just overeating, we can learn about different customer issues as they use our product in different Current Approaches."
       },
       "image": "img/img3.jpg",
       "number": 3,
-      "prompt": "The next step is to determine the current approaches that people are adopting in order to see which pain points are experienced. Which of the following are pain points caused by current approaches to how people eat ice cream?"
+      "prompt": "The next step is to determine the Current Approaches that people are adopting in order to see which Pain Points are experienced. Which of the following are Pain Points caused by Current Approaches to how people eat ice cream?"
     },
     {
       "answers": [
-        "low-calorie",
-        "sugar-free",
+        "low-calories",
         "doesn't melt quickly",
+        "sugar-free",
         "small, prepackaged portions",
         "has lots of sprinkles"
       ],
       "correct": {
-        "index": 2,
-        "text": "While low-calorie, sugar-free, and small-portion ice cream certainly accomplishes jobs related to ice cream (think Halo Top), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer seems to be the most important success criteria."
+        "index": 1,
+        "text": "While low-calorie, sugar-free, and small-portions are important Success Criteria for some people(think about the success of Halo Top ice cream), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer seems to be the most important success criteria. The longer it lasts on a summer day, the longer it can keep you cool."
       },
       "image": "img/summer_ice_cream.jpg",
       "number": 4,
-      "prompt": "Success criteria are indications of whether a job has been fulfilled, though they are not jobs themselves. Thinking back to the job of cooling off on a hot summer day, which of the following success criteria seems most relevant?"
+      "prompt": "Success Criteria are indications of whether a job has been fulfilled, though they are not jobs themselves. Thinking back to the job of cooling off on a hot summer day, which of the following Success Criteria seems most relevant for your ice cream?"
     },
     {
       "answers": [
         "The price point is too high",
         "It's difficult to find your ice cream at the local store",
-        "The ice cream is too sweet"
+        "The ice cream's consistency is too soft",
+        "The carton's design looks too generic"
       ],
       "correct": {
         "index": 2,
-        "text": "High price point is an obstacle to adoption, as is"
+        "text": "If someone doesn't like the consistency of the ice cream after trying it out, it's likely they won't buy it again. The other options (price, availability, and visual appeal) can be obstacles to adoption."
       },
       "image": "img/img4.jpg",
       "number": 5,
@@ -77,29 +78,30 @@
     },
     {
       "answers": [
-        "The bottom 20 percent",
-        "The middle 20 percent",
-        "The top 1 percent",
-        "The top 0.1 percent"
+        "Customers would pay 30% more per serving but it has less calories and feels more filling",
+        "The global ice cream market is projected to be $69.3 billion USD in 2022",
+        "It costs you about $3 in ingredients to make a gallon of ice cream",
+        "Organic and low-fat are the fastest growing areas in ice cream"
       ],
       "correct": {
-        "index": 3
+        "index": 0,
+        "text": "The correct answer is that customers are willing to pay 30% more for less calories and a more filling ice cream, which places a value on specific customer jobs. The other options- market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
       },
       "image": "img/img5.jpg",
       "number": 6,
-      "prompt": "Value question?"
+      "prompt": "Now we need to try to understand how much money is at stake with respect to a new solution. We need to frame markets in terms of jobs, rather than products themselves. Which of the following statements reflects Jobs to Be Done thinking regarding value?"
     },
     {
       "answers": [
         "an air-conditioned cafe",
-        "extra TV time to reward the kids",
-        "popcorn",
-        "pecan pie after dinner",
+        "extra TV time for the kids",
+        "low-fat, low-sodium popcorn",
+        "after-dinner wine",
         "all of the above"
       ],
       "correct": {
         "index": 4,
-        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competiting against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other things that satisfy the same jobs such as an air conditioned cafe on a hot day, popcorn for a healthier movie snack, and"
+        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competiting against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other things that satisfy the same jobs."
       },
       "image": "img/img6.jpg",
       "number": 7,
