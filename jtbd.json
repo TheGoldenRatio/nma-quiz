@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework asks us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, is it really about flavors or price? The next few questions will guide us through the Jobs framework."
+        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework asks us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, is it really about flavors or price? The next few questions will guide us through the Jobs Roadmap."
       },
       "image": "img/parlor.jpg",
       "number": 1,
@@ -28,7 +28,7 @@
       },
       "image": "img/img2.jpg",
       "number": 2,
-      "prompt": "The first part of the Jobs to be Done roadmap is to identify the Job. Jobs can fulfill functional and emotional needs. Which of the following is a functional job addressed by ice cream?"
+      "prompt": "The first part of the Jobs to be Done Roadmap is to identify the job. Jobs can fulfill functional and emotional needs. Which of the following is a functional job addressed by ice cream?"
     },
     {
       "answers": [
@@ -39,19 +39,18 @@
       ],
       "correct": {
         "index": 3,
-        "text": "As you might have guessed, all these are specific contexts in which people run into some Pain Points. Whether it's doing the dishes, dripping and dropping ice cream, or just overeating, we can learn about different customer issues as they use our product in different Current Approaches."
+        "text": "As you might have guessed, all these are specific contexts in which people run into some pain points. Whether it's doing the dishes, dripping and dropping ice cream, or just overeating, you can learn about different customer issues as they use your product in different current approaches."
       },
       "image": "img/img3.jpg",
       "number": 3,
-      "prompt": "The next step is to determine the Current Approaches that people are adopting in order to see which Pain Points are experienced. Which of the following are Pain Points caused by Current Approaches to how people eat ice cream?"
+      "prompt": "The next step is to determine the current approaches that people are adopting in order to see which pain points are experienced. Which of the following are pain points caused by current approaches to eating ice cream?"
     },
     {
       "answers": [
         "low-calories",
         "doesn't melt quickly",
         "sugar-free",
-        "small, prepackaged portions",
-        "lots of sprinkles"
+        "small, prepackaged portions"
       ],
       "correct": {
         "index": 1,
@@ -59,7 +58,7 @@
       },
       "image": "img/summer_ice_cream.jpg",
       "number": 4,
-      "prompt": "Success Criteria are indications of whether a job has been fulfilled, though they are not jobs themselves. Thinking back to the job of cooling off on a hot summer day, which of the following Success Criteria seems most relevant for your ice cream?"
+      "prompt": "Success criteria are indications of whether a job has been fulfilled, though they are not jobs themselves. Thinking back to the job of cooling off on a hot summer day, which of the following success criteria seems most relevant for your ice cream?"
     },
     {
       "answers": [
@@ -74,7 +73,7 @@
       },
       "image": "img/img4.jpg",
       "number": 5,
-      "prompt": "Next up in the Jobs Roadmap is identifying obstacles. Obstacles come in two forms: obstacles to adoption and obstacles to use. Obstacles to adoption are hurdles that limit a consumer's willingness to buy an offering. Obstacle to use are hurdles that get in the way of success, limiting the likelihood of continued use. Which one of the following is an obstacle to use?"
+      "prompt": "Next up in the Jobs Roadmap is identifying obstacles. Obstacles come in two forms: obstacles to adoption and obstacles to use. Obstacles to adoption are hurdles that limit a consumer's willingness to buy an offering. Obstacle to use are hurdles limiting the likelihood of continued use. Which one of the following is an obstacle to use?"
     },
     {
       "answers": [
@@ -85,11 +84,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "If customers are willing to pay 30% more for less calories and a more filling ice cream, that's an insight into the value of a specific customer jobs. The other options- market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
+        "text": "If customers are willing to pay 30% more for less calories and a more filling ice cream, that's an insight into the value of a specific customer jobs. The other options- market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring Value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
       },
       "image": "img/img5.jpg",
       "number": 6,
-      "prompt": "Now we need to try to understand how much money is at stake with respect to a new solution. We need to frame markets in terms of jobs, rather than products themselves. Which of the following statements reflects Jobs to Be Done thinking regarding value?"
+      "prompt": "Next up is determining Value, or trying to understand how much money is at stake with respect to a new solution. Markets need to be framed in terms of jobs, rather than products themselves. Which of the following statements reflects Jobs to be Done thinking regarding value?"
     },
     {
       "answers": [
@@ -105,7 +104,7 @@
       },
       "image": "img/img6.jpg",
       "number": 7,
-      "prompt": "The last step is to identify the competition. Who are you really competing against, in addition to other ice creams? What other things can satisfy the jobs that your ice cream does?"
+      "prompt": "The last step in the Roadmap is to identify the competition. Who are you really competing against, in addition to other ice creams? What other things can satisfy the jobs that your ice cream does?"
     }
   ],
   "title": "How well do you know Jobs to be Done?",
