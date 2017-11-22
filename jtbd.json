@@ -17,13 +17,13 @@
     },
     {
       "answers": [
+        "Cooling off on a hot day",
         "A pick-me-up after a tough day at work or school",
         "Having a dessert with sprinkles",
-        "Cooling off on a hot day",
         "Having a sweet, cold snack"
       ],
       "correct": {
-        "index": 2,
+        "index": 0,
         "text": "There's nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that's going well or hang out longer with a friend to finish that engaging conversation. Those are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional, rather than functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember that we're trying to avoid solutions and features and focusing on the needs of the customer first."
       },
       "image": "img/img2.jpg",
@@ -85,7 +85,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "The correct answer is that customers are willing to pay 30% more for less calories and a more filling ice cream, which places a value on specific customer jobs. The other options- market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
+        "text": "If customers are willing to pay 30% more for less calories and a more filling ice cream, that's an insight into the value of a specific customer jobs. The other options- market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
       },
       "image": "img/img5.jpg",
       "number": 6,
