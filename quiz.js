@@ -87,12 +87,12 @@ var $indicators = $('<ol>')
       $quiz.carousel('next');
       $indicators.addClass('show');
 
-    $(".active .quiz-button.btn").each(function(){
-      console.log(this.getBoundingClientRect())
-      $(this).css("margin-left", function(){
-        return ((250 - this.getBoundingClientRect().width) *0.5) + "px"
-      })
-    })
+    // $(".active .quiz-button.btn").each(function(){
+    //   console.log(this.getBoundingClientRect())
+    //   $(this).css("margin-left", function(){
+    //     return ((400 - this.getBoundingClientRect().width) *0.5) + "px"
+    //   })
+    // })
 
 
 
@@ -171,7 +171,7 @@ var $indicators = $('<ol>')
       if (correct) {
         opts = $.extend(opts, {
           title: "Nice!",
-          text: "Well done" + (
+          text:  (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -181,11 +181,10 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Hmm...",
+          title: "Not quite...",
           text: (
-            "Nope, not quite right!<br/><br/>" +
-            "The correct answer was \"" +
-            question.answers[question.correct.index] + "\"." + (
+    
+          (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -271,7 +270,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text">Did you like the quiz? Contact <a href= "http://www.newmarketsadvisors.com"> New Markets Advisors </a> to learn more about how you can use Jobs to Be Done to grow your organization. Share your results with your friends, so they can give it a shot!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -309,7 +308,7 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score!";
+      text = "Wow&mdash;perfect score! Visit New Markets Advisors for more information on Jobs to be done.";
       break;
     case (ratio > 0.9):
       text = "Awesome job, you got most of them right.";

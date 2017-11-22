@@ -6,12 +6,12 @@ html, body {
 
 .quiz-question {
   width: 100%;
-  max-width: 500px;
+  max-width: 600px;
   display: block;
   margin: 0 auto;
   text-align: center;
   margin-top: 30px;
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
@@ -28,23 +28,26 @@ html, body {
 }
 
 .sweet-alert button {
- border-radius: 0;
-    text-transform: uppercase;
-    font-weight: 400;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+  background-color: #00d4cc !important;
 }
 .quiz-button.btn {
   margin-top: 10px;
-  background-color: #ddd;
+  margin-left: x;
+  background-color: #D1FFF0;
   border-radius: 0;
   text-transform: uppercase;
   white-space: normal !important;
-  max-width: 250px;
-  width: 250px;
+  max-width: 400px;
+  width: 100%;
+  text-align:center;
 }
 
 .quiz-button.btn:hover {
-  background-color: #0096D2;
-  color: #fff;
+  background-color: #00d4cc;
+  color: #D1FFF0;
 }
 
 
@@ -82,8 +85,8 @@ html, body {
 }
 .correct-text {
   margin-top: 10px;
-  font-style: italic;
-  font-family: Georgia, serif;
+  /* font-weight:bold; */
+  /* font-family: Helvetica, sans-serif; */
 }
 
 .quiz-title {
@@ -137,14 +140,14 @@ html, body {
 .progress-circles li{
   list-style: none;
   display: inline-block;
-  background: #ccc;
+  background: #D1FFF0;
   width: 15px;
   height: 15px;
   border-radius: 50%;
   margin-right: 10px;
 }
 .progress-circles li.dark{
-  background: #1696d2;
+  background: #00d4cc;
 }
 
 
@@ -204,4 +207,14 @@ html, body {
 
 .pull-right {
   float: right; // Use of important emulates bootstrap
+}
+
+body {
+  background: url(img/wood2.jpeg) no-repeat center center fixed;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
