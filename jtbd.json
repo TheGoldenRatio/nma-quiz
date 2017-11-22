@@ -51,11 +51,11 @@
         "doesn't melt quickly",
         "sugar-free",
         "small, prepackaged portions",
-        "has lots of sprinkles"
+        "lots of sprinkles"
       ],
       "correct": {
         "index": 1,
-        "text": "While low-calorie, sugar-free, and small-portions are important Success Criteria for some people(think about the success of Halo Top ice cream), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer seems to be the most important success criteria. The longer it lasts on a summer day, the longer it can keep you cool."
+        "text": "While low-calorie, sugar-free, and small-portions are important Success Criteria for some people (think about the success of Halo Top ice cream), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer seems to be the most important success criteria. The longer it lasts on a summer day, the longer it can keep you cool."
       },
       "image": "img/summer_ice_cream.jpg",
       "number": 4,
@@ -70,7 +70,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "If someone doesn't like the consistency of the ice cream after trying it out, it's likely they won't buy it again. The other options (price, availability, and visual appeal) can be obstacles to adoption."
+        "text": "If someone doesn't like the consistency of the ice cream after trying it out, it's likely they won't buy it again. The other options (price, availability, and visual appeal) can be obstacles to adoption and may prevent people from purchasing your product in the first place."
       },
       "image": "img/img4.jpg",
       "number": 5,

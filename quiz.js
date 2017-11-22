@@ -270,7 +270,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text"> Contact <a href= "http://www.newmarketsadvisors.com"> New Markets Advisors </a> to learn more about Jobs to Be Done for your organization. <br><br> Share your results!</div>')
+    .html('<div id = "social-text"> Go to <a href= "http://www.newmarketsadvisors.com"> New Markets Advisors </a> to learn more about Jobs to Be Done for your organization. <br><br> Share your results!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
