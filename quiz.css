@@ -31,7 +31,7 @@ html, body {
   border-radius: 0;
   text-transform: uppercase;
   font-weight: 400;
-  background-color: #00d4cc !important;
+  background-color: #00d4cc;
 }
 .quiz-button.btn {
   margin-top: 10px;
@@ -39,7 +39,7 @@ html, body {
   background-color: #D1FFF0;
   border-radius: 0;
   text-transform: uppercase;
-  white-space: normal !important;
+  white-space: normal;
   max-width: 400px;
   width: 100%;
   text-align:center;
@@ -68,7 +68,7 @@ html, body {
   display: block;
   margin: 0 auto;
   text-align: center;
-  padding-top: 20px !important;
+  padding-top: 20px;
 }
 
 .results-ratio,
@@ -146,7 +146,7 @@ html, body {
 }
 
 .show{
- display:table !important; 
+ display:table; 
 }
 
 .progress-circles li{
@@ -189,7 +189,7 @@ html, body {
 
 
 .sweet-alert {
-      margin-top: -251px !important;
+      margin-top: -251px;
       position: absolute;
   }
 
@@ -199,7 +199,7 @@ html, body {
   font-size: 20px;
 }
 .sweet-alert {
-      margin-top: -251px !important;
+      margin-top: -251px;
       position: absolute;
   }
 .sweet-alert h2{
@@ -218,7 +218,7 @@ html, body {
 
 
 .pull-right {
-  float: right; // Use of important emulates bootstrap
+  float: right; // Use o emulates bootstrap
 }
 
 body {
@@ -229,4 +229,19 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.logo:hover {
+  -webkit-filter: brightness(70%);
+}
+
+.btn-default {
+  background-color: #283a45;
+  color: #fff;
+  border-color: #fff;
+}
+
+.text-right {
+  padding-right: 15px;
+  padding-top: 36px;
 }
