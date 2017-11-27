@@ -230,3 +230,22 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.logo:hover {
+  -webkit-filter: brightness(70%);
+}
+
+.btn-default {
+  background-color: #283a45;
+  color: #fff;
+  border-color: #fff;
+}
+
+.navbar-btn {
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+
+.text-right {
+  padding-right: 15px;
+}
