@@ -174,10 +174,11 @@ var $indicators = $('<ol>')
           text:  (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
-              question.correct.text +
+              question.correct.text  
+              +  "<img class= 'img-responsive' src="+ question.image2 +">"+
               "</div>"
             ) : ""),
-          type: "success"
+            type: "success"
         });
       } else {
         opts = $.extend(opts, {
