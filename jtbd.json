@@ -9,10 +9,9 @@
       ],
       "correct": {
         "index": 3,
-        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework asks us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, is it really about flavors or price? The next few questions will guide us through the Jobs Atlas."
+        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework gets us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, what Jobs are they looking to fulfill beyond enjoying something tasty? The next few questions will guide us through the Jobs Atlas."
       },
       "image": "img/parlor.jpg",
-      "image2": "img/img6.jpg",
       "number": 1,
       "prompt": "You're the owner of a popular local company that makes delicious ice cream. You want to expand your business. What should you do in order to attract more customers and expand your sales?"
     },
@@ -78,7 +77,7 @@
     },
     {
       "answers": [
-        "Customers pay 30% more per serving for a low-calorie,",
+        "Customers would pay 30% more per serving if it has fewer calories but feels more filling",
         "The global ice cream market is projected to be $69.3 billion USD in 2022",
         "It costs you about $3 in ingredients to make a gallon of ice cream",
         "Organic and low-fat are the fastest growing areas in ice cream"
@@ -101,7 +100,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competiting against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other things that satisfy the same jobs."
+        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competing against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other goods and services that satisfy the same jobs."
       },
       "image": "img/img6.jpg",
       "number": 7,
@@ -109,5 +108,5 @@
     }
   ],
   "title": "How well do you know Jobs to be Done?",
-  "url": "http://newmarketsadvisors.com/"
+  "url": "http://jobsroadmap.com/"
 }
