@@ -308,22 +308,22 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.9):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.60):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio > 0.5):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio < 0.5 && ratio !== 0):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
     case (ratio === 0):
-      text = "Did you enjoy this Jobs Roadmap walkthrough? Visit New Markets Advisors for more information.";
+      text = "Did you enjoy this Jobs Atlas walkthrough? Visit New Markets Advisors for more information.";
       break;
   }
   return text;

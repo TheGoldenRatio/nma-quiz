@@ -13,6 +13,7 @@ html, body {
   margin-top: 30px;
   font-size: 20px;
   margin-bottom: 20px;
+  color: white;
 }
 
 .quiz-answers {
@@ -76,6 +77,7 @@ html, body {
 .quiz-title,
 .quiz-end {
   max-width: 600px;
+  color: white;
 }
 
 .question-image img {
@@ -96,6 +98,7 @@ html, body {
   font-weight: 300;
   margin-top: 100px;
   margin-bottom: 30px;
+  color: white;
 }
 
 
@@ -104,6 +107,7 @@ html, body {
   font-weight: 300;
   margin-top: 100px;
   margin-bottom: 30px;
+  color: white;
 }
 
 
@@ -112,6 +116,7 @@ html, body {
   margin: 20px auto;
   font-size: 24px;
   font-weight: bold;
+  color: white;
 }
 
 .results-social {
@@ -222,7 +227,7 @@ html, body {
 }
 
 body {
-  background: url(img/wood2.jpeg) no-repeat center center fixed;
+  background: url(img/aurora.jpeg) no-repeat center center fixed;
 
 
   -webkit-background-size: cover;
