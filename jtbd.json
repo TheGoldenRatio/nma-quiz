@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "People typically jump to solutions when asked this question. It may be tempting to jump to specific ideas but the Jobs to be Done framework gets us to take a step back and think about the fundamental tasks customers are try to get done in their lives. When people buy ice cream, what Jobs are they looking to fulfill beyond enjoying something tasty? The next few questions will guide us through the Jobs Atlas."
+        "text": "People typically jump to solutions when asked this question. It may be tempting to focus on specific, immediate ideas but the Jobs to be Done framework gets us to take a step back and think about the fundamental tasks customers are trying to get done in their lives. When people buy ice cream, what Jobs are they looking to fulfill beyond enjoying something tasty? The next few questions will guide us through the Jobs Atlas."
       },
       "image": "img/parlor.jpg",
       "number": 1,
@@ -18,13 +18,13 @@
     {
       "answers": [
         "Cooling off on a hot day",
-        "A pick-me-up after a tough day at work or school",
+        "Treating yourself to a pick-me-up after a tough day at work or school",
         "Having a dessert with sprinkles",
-        "Having a sweet, cold snack"
+        "Eating a sweet, cold snack"
       ],
       "correct": {
         "index": 0,
-        "text": "There's nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that's going well or hang out longer with a friend to finish that engaging conversation. Those are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional, rather than functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember that we're trying to avoid solutions and features and focusing on the needs of the customer first."
+        "text": "There's nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that's going well or reward a well-behaved child. These are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional job than a functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember, we\u00e2\u20ac\u2122re trying to avoid solutions and features. We\u00e2\u20ac\u2122re focusing on addressing customer needs first."
       },
       "image": "img/img2.jpg",
       "number": 2,
@@ -32,29 +32,29 @@
     },
     {
       "answers": [
-        "Doing a bunch of dishes Saturday night after a 12-person party",
-        "dropping ice cream onto the pavement while strolling around town",
-        "eating too much from the tub while watching a horror movie",
+        "Washing a bunch of ice cream dishes on Saturday night after a 12-person party",
+        "Dropping ice cream onto the pavement while strolling around town",
+        "Eating too much from the tub while watching a horror movie",
         "All of the above"
       ],
       "correct": {
         "index": 3,
-        "text": "As you might have guessed, all these are specific contexts in which people run into some pain points. Whether it's doing the dishes, dripping and dropping ice cream, or just overeating, you can learn about different customer issues as they use your product in different current approaches."
+        "text": "As you might have guessed, all of these are pain points that people run into in specific contexts. Whether it's doing the dishes, dropping ice cream, or just overeating, looking at current approaches helps us learn about customer issues that arise in different contexts."
       },
       "image": "img/img3.jpg",
       "number": 3,
-      "prompt": "The next step is to determine the current approaches that people are adopting in order to see which pain points are experienced. Which of the following are pain points caused by current approaches to eating ice cream?"
+      "prompt": "The next step is to determine the current approaches that people are adopting in order to see which pain points they experience. Which of the following are pain points caused by current approaches to eating ice cream?"
     },
     {
       "answers": [
-        "low-calories",
+        "low-calorie",
         "doesn't melt quickly",
         "sugar-free",
         "small, prepackaged portions"
       ],
       "correct": {
         "index": 1,
-        "text": "While low-calorie, sugar-free, and small-portions are important success criteria for some people (think about the success of Halo Top ice cream), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer seems to be the most important success criterion. The longer it lasts on a summer day, the longer it can keep you cool."
+        "text": "While being low-calorie, sugar-free, and available in small portions are important success criteria for some people (think about the success of Halo Top ice cream), in this case, having an ice cream that doesn't melt all over your hand while you stroll around town in the summer is the most important success criterion. The longer it lasts on a summer day, the longer it can keep you cool."
       },
       "image": "img/summer_ice_cream.jpg",
       "number": 4,
@@ -63,32 +63,32 @@
     {
       "answers": [
         "The ice cream is very expensive",
-        "It's difficult to find your ice cream at the local store",
+        "It's difficult to find the ice cream at the local store",
         "The ice cream's consistency is too soft",
         "The carton's design looks too generic"
       ],
       "correct": {
         "index": 2,
-        "text": "If someone doesn't like the consistency of the ice cream after trying it out, it's likely they won't buy it again. The other options (price, availability, and visual appeal) can be obstacles to adoption and may prevent people from purchasing your product in the first place."
+        "text": "If someone doesn't like the consistency of the ice cream after trying it once, it's likely they won't buy it again. The other options (price, availability, and visual appeal) are obstacles to adoption and may prevent people from purchasing your product in the first place."
       },
       "image": "img/img4.jpg",
       "number": 5,
-      "prompt": "Next up in the Jobs Atlas is identifying obstacles. Obstacles come in two forms: obstacles to adoption and obstacles to use. Obstacles to adoption are hurdles that limit a consumer's willingness to buy an offering. Obstacle to use are hurdles limiting the likelihood of continued use. Which one of the following is an obstacle to use?"
+      "prompt": "Next up in the Jobs Atlas is identifying obstacles. Obstacles come in two forms: obstacles to adoption and obstacles to use. Obstacles to adoption limit a consumer's willingness to buy an offering. Obstacles to use limit the likelihood of continued use of the offering. Which one of the following is an obstacle to use?"
     },
     {
       "answers": [
-        "Customers would pay 30% more per serving if it has fewer calories but feels more filling",
+        "Customers would pay 30% more per serving if it had fewer calories but felt more filling",
         "The global ice cream market is projected to be $69.3 billion USD in 2022",
         "It costs you about $3 in ingredients to make a gallon of ice cream",
         "Organic and low-fat are the fastest growing areas in ice cream"
       ],
       "correct": {
         "index": 0,
-        "text": "If customers are willing to pay 30% more for less calories and a more filling ice cream, that's an insight into the value of a specific customer jobs. The other options: market sizing, production cost, and market trends can also be helpful but aren't jobs-rooted. Measuring value is tricky so a value-based pricing strategy accounting for unique and emotional jobs can help you uncover how expensive the solution can and should be."
+        "text": "If customers are willing to pay 30% more for a more filling ice cream with fewer calories, that's an insight into the value of a specific customer job. The other options \u00e2\u20ac\u201c market sizing, production cost, and market trends \u00e2\u20ac\u201c can also be helpful but aren't jobs-rooted. Measuring value is tricky, so a value-based pricing strategy that accounts for unique and emotional jobs can help you uncover how expensive the solution can and should be."
       },
       "image": "img/img5.jpg",
       "number": 6,
-      "prompt": "Next up is determining value, or trying to understand how much money is at stake with respect to a new solution. Markets need to be framed in terms of jobs, rather than products themselves. Which of the following statements reflects Jobs to be Done thinking regarding value?"
+      "prompt": "Next up is determining value, or trying to understand how much money is at stake with respect to a new solution. Markets need to be framed in terms of jobs rather than products themselves. Which of the following statements reflects Jobs to be Done thinking regarding value?"
     },
     {
       "answers": [
@@ -100,11 +100,11 @@
       ],
       "correct": {
         "index": 4,
-        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competing against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other goods and services that satisfy the same jobs."
+        "text": "A broader view of what constitutes competition can illuminate more avenues for growth. Your ice cream isn't just competing against other brands of ice cream. Beyond your traditional or direct competitors, your offering also competes against other goods and services that satisfy some of the same jobs."
       },
       "image": "img/img6.jpg",
       "number": 7,
-      "prompt": "The last step in the Atlas is to identify the competition. Who are you really competing against, in addition to other ice creams? What other things can satisfy the jobs that your ice cream does?"
+      "prompt": "The last step in the Jobs Atlas is to identify the competition. Who are you really competing against, in addition to other brands of ice cream? What other things can satisfy the jobs that your ice cream addresses?"
     }
   ],
   "title": "How well do you know Jobs to be Done?",
