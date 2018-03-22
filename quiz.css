@@ -254,3 +254,7 @@ body {
 .text-right {
   padding-right: 15px;
 }
+
+a {
+  color: black;
+}
