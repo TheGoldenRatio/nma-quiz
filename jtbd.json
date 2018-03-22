@@ -47,10 +47,10 @@
     },
     {
       "answers": [
-        "low-calorie",
-        "doesn't melt quickly",
-        "sugar-free",
-        "small, prepackaged portions"
+        "Low-calorie",
+        "Doesn't melt quickly",
+        "Sugar-free",
+        "Small, prepackaged portions"
       ],
       "correct": {
         "index": 1,
@@ -92,11 +92,11 @@
     },
     {
       "answers": [
-        "an air-conditioned cafe",
-        "extra TV time for the kids",
-        "low-fat, low-sodium popcorn",
-        "after-dinner wine",
-        "all of the above"
+        "An air-conditioned cafe",
+        "Extra TV time for the kids",
+        "Low-fat, low-sodium popcorn",
+        "After-dinner wine",
+        "All of the above"
       ],
       "correct": {
         "index": 4,
@@ -105,6 +105,18 @@
       "image": "img/img6.jpg",
       "number": 7,
       "prompt": "The last step in the Jobs Atlas is to identify the competition. Who are you really competing against, in addition to other brands of ice cream? What other things can satisfy the jobs that your ice cream addresses?"
+    },
+    {
+      "answers": [
+        "Ready to do make another Jobs Atlas on my own!"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Thanks for going through this Jobs to be Done quiz. To learn more, please visit the New Markets Advisors website and read our working papers, blog posts, and book excerpts!"
+      },
+      "image": "img/atlas.jpg",
+      "number": 8,
+      "prompt": "The final thing to do is to summarize everything in a Jobs Atlas diagram. Here's an example (large version <a href = \"https://user-images.githubusercontent.com/3010587/37795681-95ec956c-2deb-11e8-8ea6-04a875dd58ee.jpg\" target = \"_blank\"> here </a>). &#32; Do you now have a deeper understanding of Jobs to be Done and the Jobs Atlas?"
     }
   ],
   "title": "How well do you know Jobs to be Done?",
