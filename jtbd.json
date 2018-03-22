@@ -24,7 +24,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "There's nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that's going well or reward a well-behaved child. These are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional job than a functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember, we\u00e2\u20ac\u2122re trying to avoid solutions and features. We\u00e2\u20ac\u2122re focusing on addressing customer needs first."
+        "text": "There is nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that is going well or reward a well-behaved child. These are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional job than a functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember, we're trying to avoid solutions and features. We're focusing on addressing customer needs first."
       },
       "image": "img/img2.jpg",
       "number": 2,
@@ -84,7 +84,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "If customers are willing to pay 30% more for a more filling ice cream with fewer calories, that's an insight into the value of a specific customer job. The other options \u00e2\u20ac\u201c market sizing, production cost, and market trends \u00e2\u20ac\u201c can also be helpful but aren't jobs-rooted. Measuring value is tricky, so a value-based pricing strategy that accounts for unique and emotional jobs can help you uncover how expensive the solution can and should be."
+        "text": "If customers are willing to pay 30% more for a more filling ice cream with fewer calories, that's an insight into the value of a specific customer job. The other options - market sizing, production cost, and market trends - can also be helpful but aren't jobs-rooted. Measuring value is tricky, so a value-based pricing strategy that accounts for unique and emotional jobs can help you uncover how expensive the solution can and should be."
       },
       "image": "img/img5.jpg",
       "number": 6,
@@ -108,7 +108,7 @@
     },
     {
       "answers": [
-        "Ready to do make another Jobs Atlas on my own!"
+        "Ready to make another Jobs Atlas on my own!"
       ],
       "correct": {
         "index": 0,
@@ -116,7 +116,7 @@
       },
       "image": "img/atlas.jpg",
       "number": 8,
-      "prompt": "The final thing to do is to summarize everything in a Jobs Atlas diagram. Here's an example (large version <a href = \"https://user-images.githubusercontent.com/3010587/37795681-95ec956c-2deb-11e8-8ea6-04a875dd58ee.jpg\" target = \"_blank\"> here </a>). &#32; Do you now have a deeper understanding of Jobs to be Done and the Jobs Atlas?"
+      "prompt": "The final thing to do is to summarize everything in a Jobs Atlas diagram. Here's an example (large version <a href = \"https://user-images.githubusercontent.com/3010587/37795681-95ec956c-2deb-11e8-8ea6-04a875dd58ee.jpg\" target = \"_blank\"> here </a>). Do you now have a deeper understanding of Jobs to be Done and the Jobs Atlas?"
     }
   ],
   "title": "How well do you know Jobs to be Done?",
