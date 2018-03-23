@@ -24,7 +24,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "There is nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that is going well or reward a well-behaved child. These are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional job than a functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember, we're trying to avoid solutions and features. We're focusing on addressing customer needs first."
+        "text": "There's nothing quite like eating ice cream on a hot summer day to cool off. Getting ice cream is also a great way to extend a date that is going well or reward a well-behaved child. These are just a couple functional jobs that ice cream can satisfy. Eating ice cream after a tough day is more of an emotional job than a functional job. And sprinkles, sweetness, and coldness are product features rather than jobs. Remember, we're trying to avoid solutions and features. We're focusing on addressing customer needs first."
       },
       "image": "img/img2.jpg",
       "number": 2,
@@ -69,7 +69,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "If someone doesn't like the consistency of the ice cream after trying it once, it's likely they won't buy it again. The other options (price, availability, and visual appeal) are obstacles to adoption and may prevent people from purchasing your product in the first place."
+        "text": "Price, availability, and visual appeal are obstacles to adoption and may prevent people from purchasing your product when they see it in the store. If someone doesn't like the consistency of your ice cream after trying it once, it's likely they won't buy it again, making consistency an obstacle to use."
       },
       "image": "img/img4.jpg",
       "number": 5,
